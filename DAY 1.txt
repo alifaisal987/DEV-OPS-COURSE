@@ -1,0 +1,13 @@
+DAY 1
+Dev ops is a culture   that improves the delivery process 
+Automation is added  to improve delivery
+Quality is in place
+Monitoring
+Testing
+
+Why Devops?
+Before devops there was manual effort
+To automate all the process
+To improve all the manual process people have moved to devops
+There were multiple teams before but now there is only one team
+
