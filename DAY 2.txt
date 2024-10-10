@@ -1,0 +1,21 @@
+DAY 2
+SDLC(software development life cycle)
+Used to
+⦁	DESIGN
+⦁	DEVELOP
+⦁	TEST
+
+SDLC 
+⦁	Planning (Requirments)
+⦁	Defining (Documents)
+⦁	Designing (HLD, LLD  high level design and low level design)
+⦁	Building
+Developing
+Dev-> Git->
+
+⦁	Testing
+Testing-> Server-> Quality Enginner
+⦁	Deploy
+Production -> Customer
+Most important
+
